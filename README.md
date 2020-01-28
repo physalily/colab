@@ -1,11 +1,16 @@
 # NITTC 授業用コード郡
----
 
 実際に使うかは別として倉庫としておいておきます。
 
-### This is written in colaboratory.
----
-Main code is about deep learning.
+### 授業内容
++ 単純なネットワークによる機械学習（oneNodeNetwork.ipynb）
++ 深層学習による二次関数の近似（quadFuncNetwork.ipynb）
++ 畳み込みNNと機械学習による分類（MNIST.ipynb）
++ RNNによる暗号機Enigmaの解読（enigma_RNN.ipynb）
+
+3回分の基礎編とその他応用編となっています。また今後増えていくこともあると思います。
+応用側はデータを外部（Google Drive）から読み込むことが増えますので、少々めんどくさいかもしれません。
+ライセンスに関しては何も考えていないのでMITです。
 
 ---
 ## The MIT License
